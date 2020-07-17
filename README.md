@@ -1,10 +1,5 @@
 # Hi, here is David Yung-Sheng Lu 👋
 
-## 🔭 Currently Working
-
-- Frontend Engineer - Silkrode Technologies Co., Taipei, Taiwan
-  - APR. 2020 - Present
-
 ## 🌱  Currently Learning
 
 - Frontend: Vue, React, TypeScript
