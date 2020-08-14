@@ -2,6 +2,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=yungshenglu&show_icons=true&theme=radical)
 
+![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yungshenglu&theme=radical)
+
 ## 🚀  Experience
 
 - Technical Consultant - Titansoft Pte Ltd, Taipei, Taiwan
