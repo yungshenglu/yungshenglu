@@ -1,12 +1,5 @@
 # Hi, here is David Yung-Sheng Lu 👋
 
-## 🌱  Currently Learning
-
-- Frontend: Vue, React, TypeScript
-- API Query: GraphQL
-- Testing: Jest
-- Deployment: Kubernetes
-
 ## 🚀  Experience
 
 - Technical Consultant - Titansoft Pte Ltd, Taipei, Taiwan
