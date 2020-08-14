@@ -1,5 +1,7 @@
 # Hi, here is David Yung-Sheng Lu 👋
 
+![](https://github-readme-stats.vercel.app/api?username=yungshenglu&show_icons=true&theme=radical)
+
 ## 🚀  Experience
 
 - Technical Consultant - Titansoft Pte Ltd, Taipei, Taiwan
