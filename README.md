@@ -6,6 +6,8 @@
 
 ## 🚀  Experience
 
+- Frontend Engineer - Silkrode Technologies Co., Taipei, Taiwan
+  - APR. 2020 - Present
 - Technical Consultant - Titansoft Pte Ltd, Taipei, Taiwan
   - MAR. 2020 - APR. 2020
 - Teaching Assistent - National Chiao Tung University (NCTU), Hsinchu, Taiwan
