@@ -27,6 +27,7 @@ Computing Workshop 2016
 
 ## 📫  Contact
 
+- Blog: [David's Notes](https://yungshenglu.github.io)
 - GitHub: [@yungshenglu](https://github.com/yungshenglu)
 - Twitter: [@yungshenglu](https://twitter.com/yungshenglu)
 - LinkedIn: [@yungshenglu](https://www.linkedin.com/in/yungshenglu)
