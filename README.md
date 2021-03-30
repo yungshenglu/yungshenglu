@@ -1,4 +1,4 @@
-# Hi, here is David Yung-Sheng Lu 👋
+# Hi, here is David Lu 👋
 
 ![](https://github-readme-stats.vercel.app/api?username=yungshenglu&show_icons=true&theme=radical)
 
