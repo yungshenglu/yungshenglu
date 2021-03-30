@@ -11,31 +11,7 @@
 
 - 📫 How to reach me **yungshenglu1994@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/yungshenglu/](https://www.linkedin.com/in/yungshenglu/)
-
-## 🚀  Experience
-
-- Frontend Engineer - Silkrode Technologies Co., Taipei, Taiwan
-  - APR. 2020 - Present
-- Technical Consultant - Titansoft Pte Ltd, Taipei, Taiwan
-  - MAR. 2020 - APR. 2020
-- Teaching Assistent - National Chiao Tung University (NCTU), Hsinchu, Taiwan
-  - SEP. 2018 - JAN. 2019
-- Summer Internship - EstiNet Technologies Inc., Tainan, Taiawn
-  - JUL. 2016 - AUG. 2016
-
-## 🎓  Education
-
-- National Chiao Tung University (NCTU), M.S. in Network Engineering
-  - AUG. 2017 - AUG. 2019
-  - Graduation Thesis: Y.-S. Lu, K. C.-J. Lin, "Decentralized Intra-Network Learning for Software-Defined Networks"
-  - Thesis: Y.-S. Lu, K. C.-J. Lin, "Enabling Inference Inside Software Switches," Accepted to 2019 20th Asia-Pacific Network Operations and Management Symposium (APNOMS)
-  - Adviser: Prof. Kate Ching-Ju Lin
-  - Laboratory: Networking and Sensing Systems Laboratory (NSS Lab)
-- National Cheng Kung University (NCKU), B.S. in Computer Science and Information Engineering
-  - SEP. 2014 - JUN. 2017
-  - Graduation Project: Y.-Z. Cai, Y.-S. Lu, M.-H. Tsai, ”Real-time Monitoring with Data Visualization in OpenFlow-based Network,” Accepted by Mobile
-Computing Workshop 2016
+- 🚀 Know about my experiences [https://www.linkedin.com/in/yungshenglu/](https://www.linkedin.com/in/yungshenglu/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
