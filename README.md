@@ -19,7 +19,10 @@
 
 - National Chiao Tung University (NCTU), M.S. in Network Engineering
   - AUG. 2017 - AUG. 2019
-  - Thesis: Y.-S. Lu, K. C.-J. Lin ”Decentralized Intra-Network Learning for Software-Defined Networks.”
+  - Graduation Thesis: Y.-S. Lu, K. C.-J. Lin, "Decentralized Intra-Network Learning for Software-Defined Networks"
+  - Thesis: Y.-S. Lu, K. C.-J. Lin, "Enabling Inference Inside Software Switches," Accepted to 2019 20th Asia-Pacific Network Operations and Management Symposium (APNOMS)
+  - Adviser: Prof. Kate Ching-Ju Lin
+  - Laboratory: Networking and Sensing Systems Laboratory (NSS Lab)
 - National Cheng Kung University (NCKU), B.S. in Computer Science and Information Engineering
   - SEP. 2014 - JUN. 2017
   - Graduation Project: Y.-Z. Cai, Y.-S. Lu, M.-H. Tsai, ”Real-time Monitoring with Data Visualization in OpenFlow-based Network,” Accepted by Mobile
