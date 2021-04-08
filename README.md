@@ -15,9 +15,10 @@
 	</a>
 </p>
 
-- 🌱 I’m currently learning **TypeScript** - 📝 I regularly write articles on
-[https://yungshenglu.github.io/](https://yungshenglu.github.io/) - 📫 How to reach me **yungshenglu1994@gmail.com** - 🚀
-Know about my experiences [https://www.linkedin.com/in/yungshenglu/](https://www.linkedin.com/in/yungshenglu/)
+- 🌱 I’m currently learning **TypeScript** 
+- 📝 I regularly write articles on [https://yungshenglu.github.io/](https://yungshenglu.github.io/) 
+- 📫 How to reach me **yungshenglu1994@gmail.com** 
+- 🚀 Know about my experiences [https://www.linkedin.com/in/yungshenglu/](https://www.linkedin.com/in/yungshenglu/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
