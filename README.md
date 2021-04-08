@@ -241,6 +241,5 @@
 
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=yungshenglu&show_icons=true&theme=radical" />
+	<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yungshenglu&layout=compact&theme=radical" />
 </p>
-
-![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yungshenglu&layout=compact&theme=radical)
