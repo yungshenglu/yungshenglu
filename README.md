@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Lu</h1>
-<h3 align="center">Frontend Engineer</h3>
+
+<h2 align="center">Frontend Engineer</h2>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=yungshenglu&label=Profile%20views&color=0e75b6&style=flat" alt="yungshenglu" /> 
