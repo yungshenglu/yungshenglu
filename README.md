@@ -15,8 +15,6 @@
 	</a>
 </p>
 
-- 🌱 I’m currently learning **TypeScript** 
-- 📝 I regularly write articles on [https://yungshenglu.github.io/](https://yungshenglu.github.io/) 
 - 📫 How to reach me **yungshenglu1994@gmail.com** 
 - 🚀 Know about my experiences [https://www.linkedin.com/in/yungshenglu/](https://www.linkedin.com/in/yungshenglu/)
 
